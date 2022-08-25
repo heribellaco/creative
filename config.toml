@@ -11,7 +11,7 @@ googleAnalytics = ""
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "red"
-  description = "My Portfolio Website"
+  description = "My Website"
   copyright = "&copy;2022 Heriberto R."
   sidebarAbout = [
     "I am a creative developer and musician with more experience than necesary.",
