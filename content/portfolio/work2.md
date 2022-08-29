@@ -1,6 +1,6 @@
 +++
 date = "2016-11-05T19:41:01+05:30"
-title = "Memories, Dreams, and Reflections"
+title = "Memories, Dreams, and Reflections (C. G. Jung)"
 draft = false
 image = "img/portfolio/animal-garden_650.jpg"
 showonlyimage = false
@@ -32,4 +32,4 @@ The recurring dream is a noteworthy phenomenon. There are cases in which people 
 
 Freud himself, for instance, interpreted the introverted type as an individual morbidly concerned with himself. But introspection and self-knowledge can just as well be of the greatest value and importance.
 
-Man positively needs general ideas and convictions that will give a meaning to his life and enable him to find a place for himself in the universe. He can stand the most incredible hardships when he is convinced that they make sense; he is crushed when, on top of all his misfortunes, he has to admit that he is taking part in a “tale told by an idiot.”
+
