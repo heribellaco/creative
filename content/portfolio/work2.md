@@ -7,7 +7,7 @@ showonlyimage = false
 weight = 1
 +++
 
-I have already mentioned the fact that the Self is symbolized with special frequency in the form of a stone, precious or otherwise. The Self is often symbolized as an animal, representing our instinctive nature and its connectedness with one’s surroundings. (That is why there are so many helpful animals in myths and fairy tales.) 
+I have already mentioned the fact that the Self is symbolized with special frequency in the form of a stone, precious or otherwise. The Self is also often symbolized as an animal, representing our instinctive nature and its connectedness with one’s surroundings. (That is why there are so many helpful animals in myths and fairy tales.) 
 <!--more-->
 
 Dreams are not wish-fulfillments (as Freud taught) but rather, as Jung assumed, “self-representations of the unconscious,”
