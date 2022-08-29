@@ -10,7 +10,7 @@ googleAnalytics = ""
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "sea"
+  style = "violet"
   description = "My Website"
   copyright = "&copy;2022 Heriberto R."
   sidebarAbout = [
@@ -29,7 +29,7 @@ googleAnalytics = ""
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "you@yoursite.com"
+  email = "ilpaese@hotmail.com"
 
     # Optional Matomo analytics (formerly piwik)
       # [params.analytics.matomo]
