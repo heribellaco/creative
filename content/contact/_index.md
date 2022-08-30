@@ -9,6 +9,6 @@ The time therefore that any man doth live, is but a little, and the place where 
 
 And such a one, though no man should believe that he liveth as he doth, either sincerely and conscionably, or cheerful and contentedly; yet is he neither with any man at all angry for it, nor diverted by it from the way that leadeth to the end of his life, through which a man must pass pure, ever ready to depart, and willing of himself without any compulsion to fit and accommodate himself to his proper lot and portion.
 
----
-
 Meditations (Emperor of Rome Marcus Aurelius)
+
+---
