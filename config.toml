@@ -1,5 +1,5 @@
 baseURL = 'https://starlit-liger-4f88b6.netlify.app/'
-title = "Creative Portfolio"
+title = "My Portfolio"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -10,12 +10,12 @@ googleAnalytics = ""
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "violet"
+  style = "blue"
   description = "My Website"
   copyright = "&copy;2022 Heriberto R."
   sidebarAbout = [
-    "I am a creative developer and musician with more experience than necesary.",
-    "Originally from Mexico, currently based in London."
+    "I am a creative developer and musician with lots of experience.",
+    "Currently based in Mexico City."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -49,6 +49,10 @@ googleAnalytics = ""
   [[params.navlinks]]
   name = "About"
   url = "about/"
+
+  [[params.navlinks]]
+  name = "Poems"
+  url = "poems/"
 
   [[params.navlinks]]
   name = "Get in touch"

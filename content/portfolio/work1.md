@@ -3,19 +3,19 @@ showonlyimage = true
 draft = false
 image = "img/portfolio/heribertorangel_700.jpg"
 date = "2016-11-05T18:25:22+05:30"
-title = "Name of the work 1"
+title = "My Book"
 weight = 0
 +++
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+This landing page is a long description of the contents of my book, and has links to buy the book directly from me in electronic form, or to buy it from Amazon if you like. There is also links to the French and German versions.
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+I have also included social icons and a email form linked to mailchimp inn case the person wants to subscribe to my newsletter.
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+You can look to some pages of the book, learn about me and ways to contact me like email or whatsapp are included.
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+1. Made with a Hugo template.
+2. Static site hosted in Netlify.
 
 > The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
 
