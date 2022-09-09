@@ -3,29 +3,27 @@ draft = false
 image = ""
 showonlyimage = false
 date = "2016-11-05T19:50:47+05:30"
-title = "Item without image"
+title = "Power, Travel & People"
 weight = 4
 +++
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+People will say all kinds of things about their motives and intentions; they are used to dressing things up with words. Their actions, however, say much more about their character, about what is going on underneath the surface.
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+In a certain sense, walking through new places with the instincts of a five-year-old is liberating. No longer are you bound to your past. In living so far away from your home, you’ll suddenly find yourself holding a clean slate. There’s no better opportunity to break old habits, face latent fears, and test out repressed facets of your personality. Socially, you’ll find it easier to be gregarious and open-minded. Mentally, you’ll feel engaged and optimistic, newly ready to listen and learn. And, as much as anything, you’ll find yourself abuzz with the peculiar feeling that you can choose to go in any direction (literally and figuratively) at any given moment.
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+we end up spending (as Thoreau put it) “the best part of one’s life earning money in order to enjoy a questionable liberty during the least valuable part of it.”
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+1. Often it is the quiet ones, those who give out less at first glance, who hide greater depths, and who secretly wield greater power.
+2. The definition of Power is not financial success, status or influence over others, but the degree to which we have control over our own lives.
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+> However you choose to fund your travel freedom, keep in mind that your work is an active part of your travel attitude. Even if your antisabbatical job isn’t your life’s calling, approach your work with a spirit of faith, mindfulness, and thrift. In such a manner, Thoreau was able to meet all his living expenses at Walden Pond by working just six weeks a year.
 
-## Header Level 2
+## Seth Godin
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+When we take responsibility and eagerly give credit, doors open. When we grab a microphone and speak up, we’re a step closer to doing the work we’re able to do. Most of all, when we buckle down, confront the lizard brain, and ship our best work, we’re becoming the artists we are capable of becoming. No one is going to pick you. Pick yourself.
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+* Art is threatening because it always involves moving away from the comfort zone into the unknown. The unknown is the black void, the place where failure can happen (and so can success).
+* In the words of Joseph Campbell, you’re doing art “for the experience of being alive.” The alternative is to be numb, to lull yourself into the false sense of security offered by the promise of the rare well-paid job where you are doing someone else’s bidding.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+The industrialist needs you to dream about security and the benefits of compliance. The industrialist works to sell you on a cycle of consumption (which requires more compliance). And the industrialist benefits from our dream of moving up the corporate ladder, his ladder.
