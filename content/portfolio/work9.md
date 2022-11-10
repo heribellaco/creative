@@ -1,31 +1,35 @@
 +++
 draft = false
-image = "img/portfolio/envelope-brand.jpg"
+image = "img/portfolio/animal-garden_650.jpg"
 showonlyimage = false
 date = "2016-11-05T20:02:19+05:30"
-title = "Item with image"
+title = "Animal Garden Cover"
 weight = 9
 +++
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+This cover represents the world as we see it, from the sunny side of mountain like in the Chinese yin/yang tradition; but if we climb more we can find ourselves in the shadowy side of the world; may be in a better site, but also advancing to the unknown and, maybe a more dangerous place.
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+This world variety is represented by the Chinese tigers, the Indian Ganesh elephant, the chee-kung balls, the cairne, coins, and mexican mortar called "molcajete".
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+The garden Items remind us of how big the world is, and the incredible adventure that being alive represent.
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+1. Chinese lions
+2. Ganesh elephant
+3. Chi-kung Balls
+4. Cairnes
+5. Chinese coins
+6. Molcajete mortar
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+> This image was produced from scratch in the program Cinema 4D, and importing some elements and creating others from primitives and adding textures and lightning.
 
-## Header Level 2
+## Animal Garden Album
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+The songs have been written in the last 3 years from pieces of guitar parts recorded with Adobe Audition mainly, but sometimes with LogicProX software on my mac or recorded directly to my phone.
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+The pieces where put togeter with intros, outros, and divided in Choruses, Verses, Bridges, etcetera. Finally lyrics where added, the beats per minute (BPM)found and the key used when possible. Inspiration came from various sources.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+* 90 Rock & Progressive Rock.
+* Romantic Ballads.
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+

@@ -2,7 +2,7 @@
 date = "2016-11-05T19:41:01+05:30"
 title = "Memories, Dreams, and Reflections (C. G. Jung)"
 draft = false
-image = "img/portfolio/animal-garden_650.jpg"
+image = "img/portfolio/mandala-5180247_640.png"
 showonlyimage = false
 weight = 1
 +++
