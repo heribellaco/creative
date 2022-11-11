@@ -1,8 +1,8 @@
 +++
-image = "img/portfolio/keratoconus_blog.jpg"
+image = "img/portfolio/ayurveda.jpg"
 showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
-title = "Keratoconus blog"
+title = "Kundalini Yoga"
 draft = false
 weight = 2
 +++

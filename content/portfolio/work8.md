@@ -1,21 +1,21 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/portfolio/ipad-air-2.jpg"
+image = "img/portfolio/keratoconus_blog.jpg"
 date = "2016-11-05T19:59:22+05:30"
-title = "Name of the work 8"
+title = "Keratoconus Blog"
 weight = 8
 +++
 
-Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
+This is my book blog page
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+This blog page is used as a complement of my book "the keratoconus user-guide", it contains articles about ideas discussed in the book, but additional material of interest to my readers.
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+This blog is a static blog meaning it has no database and can be hosted practically for free, it is build with Hugo ststic page generator and hosted in Github and deployed by Netlify.
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+1. Static pages load faster.
+2. Cheap to maintain and host.
 
 > The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
 

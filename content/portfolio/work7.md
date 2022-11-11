@@ -1,16 +1,16 @@
 +++
-image = "img/portfolio/label-clothes.jpg"
+image = "img/portfolio/phone_kug.png"
 showonlyimage = false
 date = "2016-11-05T19:57:40+05:30"
-title = "Name of the work 7"
+title = "Audio of Book"
 draft = false
 weight = 7
 +++
 
-Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
+This us the audio recorded by myself, of my book about keratoconus.
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+This is a condensed version of the book, so it can be read with people with disabilities.
 
 A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
 
