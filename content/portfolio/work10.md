@@ -1,21 +1,24 @@
 +++
 draft = false
-image = "img/portfolio/trifold.jpg"
+image = "img/portfolio/screencapture-animal.jpg"
 showonlyimage = true
 date = "2016-11-05T20:22:08+05:30"
-title = "Item with image"
+title = "Music Page"
 weight = 10
 +++
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+This is a page where people can listen to a few demo songs from my new album, out soon..
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+## Animal Garden Album
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+The songs have been written in the last 3 years, with pieces of guitar sections recorded with Adobe Audition mainly, but sometimes with LogicPro software or recorded directly to my phone and edited later.
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+The pieces where put togeter with intros, outros, and divided in choruses, verses, bridges, etcetera. Finally lyrics where added, the beats per minute (BPM)found and the key used when possible. Inspiration came from various sources.
+
+* 90 Rock & Progressive Rock.
+* Romantic Ballads.
+* Clasical music and jazz.
 
 > The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
 

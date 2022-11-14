@@ -1,21 +1,21 @@
 +++
 draft = false
-image = "img/portfolio/paper-presentation.jpg"
-showonlyimage = true
+image = "img/portfolio/kc_breakfast.jpg"
+showonlyimage = false
 date = "2016-11-05T20:23:59+05:30"
-title = "Item with image"
-weight = 11
+title = "A Keratoconus Breakfast"
+weight = 2
 +++
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+Winner image of the first prize at the "keratoconus Foundation" NKCF USA/Australia, photo contest. (November 10, 2022)
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+The image is called "a keratoconus Breakfast", and shows on one side a table and on the left the distorted image that we see without lenses.
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+An apple with a keratoconus scan image surface is placed at the table to remind us that we are part of nature.
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+1. Apple was rendered with Cinema4d Software and texture taken directly from my eye's Orbscan.
+2. Brekfast image taken with my Olympus camara, blurring and apple added later with Adobe photoshop.
 
 > The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
 

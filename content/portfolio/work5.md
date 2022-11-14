@@ -3,7 +3,7 @@ image = "img/portfolio/beto.jpg"
 showonlyimage = false
 draft = false
 date = "2016-11-05T19:53:42+05:30"
-title = "Venice Beach Photo"
+title = "Venice Beach"
 weight = 5
 +++
 

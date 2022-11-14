@@ -23,7 +23,7 @@ I can help with Search Engine Optimization and google Ads campaigns, have good H
 * Web Developer
 * Musician
 
-I love to improve myself. I am also a web developer, and guitar aficionado.
+I love to improve myself. I am also a web developer, and guitar player.
 
 See more about me @ https://heribertorangel.com
 
