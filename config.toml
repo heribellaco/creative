@@ -14,7 +14,7 @@ googleAnalytics = ""
   description = "My Website"
   copyright = "&copy;2022 Heriberto R."
   sidebarAbout = [
-    "I am a creative developer and musician with lots of experience.",
+    "I am a creative developer and musician.",
     "Currently based in Mexico City."
   ]
   # Contact page
