@@ -1,1 +1,6 @@
 /* your styles go here */
+p{
+    font-size: 18;
+    letter-spacing: -0.073;
+    font-weight: 300;
+}

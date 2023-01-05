@@ -347,8 +347,8 @@ SIDEBAR + RIGHT COLUMN
   text-decoration: none;
 }
 .sidebar-p {
-  color: #999999;
-  font-size: 14px;
+  color: #000000;
+  font-size: 18px;
 }
 .sidebar-menu {
   list-style-type: none;
@@ -432,7 +432,7 @@ SIDEBAR + RIGHT COLUMN
 }
 .small-navbar-heading {
   float: right;
-  font-size: 18px;
+  font-size: 14px;
   text-transform: uppercase;
   letter-spacing: 0.1em;
   margin-top: 10px;
@@ -1584,7 +1584,7 @@ STYLE SWITCHER FOR DEMO
 /* scaffolding */
 body {
   font-family: "Roboto", Helvetica, Arial, sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.55;
   color: #000000;
   background-color: #f4f4f4;
