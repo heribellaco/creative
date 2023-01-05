@@ -19,7 +19,7 @@ we end up spending (as Thoreau put it) “the best part of one’s life earning 
 
 > However you choose to fund your travel freedom, keep in mind that your work is an active part of your travel attitude. Even if your antisabbatical job isn’t your life’s calling, approach your work with a spirit of faith, mindfulness, and thrift. In such a manner, Thoreau was able to meet all his living expenses at Walden Pond by working just six weeks a year.
 
-## Seth Godin "The Icarous deception"
+## Seth Godin "The Icarus deception"
 
 When we take responsibility and eagerly give credit, doors open. When we grab a microphone and speak up, we’re a step closer to doing the work we’re able to do. Most of all, when we buckle down, confront the lizard brain, and ship our best work, we’re becoming the artists we are capable of becoming. No one is going to pick you. Pick yourself.
 

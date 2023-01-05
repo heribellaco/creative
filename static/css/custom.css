@@ -1,6 +1,46 @@
 /* your styles go here */
 p{
-    font-size: 18;
+    font-size: 16px;
     letter-spacing: -0.073;
-    font-weight: 300;
+    font-weight: 400;
 }
+
+.box-masonry .box-masonry-text p {
+  color: #999999;
+  font-size: 16px;
+}
+
+.sidebar-heading {
+    font-size: 22px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+  }
+  .sidebar-menu {
+    list-style-type: none;
+    padding-left: 18px;
+    margin-bottom: 40px;
+  }
+
+  /* scaffolding */
+body {
+    font-family: "Roboto", Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    line-height: 1.55;
+    color: #000000;
+    background-color: #f4f4f4;
+  }
+  
+  .copyright {
+    color: #999999;
+    font-size: 16px;
+  }
+
+  .copyright p.credit {
+    margin-bottom: 10px;
+    font-size: 14px;
+  }
+
+  .sidebar-p {
+    color: #999999;
+    font-size: 17px;
+  }

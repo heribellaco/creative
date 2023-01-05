@@ -16,7 +16,8 @@ The public demands that you tell them a story. The story is part of the product 
 2. Desire is the seed of intrinsic motivation, the natural impulse to create, to expand, to grow.
 
 
-> I also have in my mind that seemingly wealthy, but most terribly impoverished class of all, who have accumulated dross, but know not how to use it, or get rid of it, and thus have forged their own golden or silver fetters. -Henry David Thoreau
+> I also have in my mind that seemingly wealthy, but most terribly impoverished class of all, who have accumulated dross, but know not how to use it, or get rid of it, and thus have forged their own golden or silver fetters.
+> - Henry David Thoreau 
 
 ## Marketing 101
 
