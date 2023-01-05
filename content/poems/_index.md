@@ -17,11 +17,11 @@ To be awake is to be alive. I have never yet met a man who was quite awake. How 
 
 I went to the garden of Love,\
 And saw what i had never had seen:\
-A Chapel ws built in the mist,\
+A Chapel was built in the mist,\
 Where i used to play in the green
 
 And the gates of this Chapel were shut,\
-And "thou shalt not"writ over the door;\
+And "thou shalt not" writ over the door;\
 So i turne'd to the garden of Love\
 That so many sweet flowers bore;\
 
