@@ -25,6 +25,8 @@ All the music playing and singing is done by myself.
 ---  
 Check some of my songs!
 
-and let me know whwt you think.
+and let me know what you think.
 
-[Music Site]([title](https://animal-garden.netlify.app/cover.html))  
+---
+
+[Music Site](https://animal-garden.netlify.app/cover.html)  
