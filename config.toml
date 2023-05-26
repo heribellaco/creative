@@ -1,5 +1,5 @@
 baseURL = 'https://heriberto-portfolio.netlify.app/'
-title = "My Portfolio"
+title = "Portfolio"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 # Enable comments by entering betorangel to your Disqus shortname
@@ -10,11 +10,11 @@ googleAnalytics = ""
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "blue"
+  style = "violet"
   description = "My Website"
-  copyright = "&copy;2022 Heriberto R."
+  copyright = "&copy;2023 Heriberto R."
   sidebarAbout = [
-    "I am a creative developer and musician",
+    "I am a developer and musician",
     "Currently based in Mexico City."
   ]
   # Contact page
