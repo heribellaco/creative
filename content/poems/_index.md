@@ -9,23 +9,25 @@ The Vedas say, “All intelligences awake with the morning.” Poetry and art, a
 
 To be awake is to be alive. I have never yet met a man who was quite awake. How could I have looked him in the face?
 
----
+
 
 **Walden, or, Life in the woods: (Henry David Thoreau)**  
-  
-**The garden of love**
 
-I went to the garden of Love,\
+---
+
+*The garden of love*
+
+>I went to the garden of Love,\
 And saw what i had never had seen:\
 A Chapel was built in the mist,\
 Where i used to play in the green
 
-And the gates of this Chapel were shut,\
+>And the gates of this Chapel were shut,\
 And "thou shalt not" writ over the door;\
 So i turne'd to the garden of Love\
 That so many sweet flowers bore;\
 
-And i saw it was filled with graves,\
+>And i saw it was filled with graves,\
 And tomb-stones where flowers should be;\
 And Priests in black gowns where walking their rounds,\
 And binding with briars my joys and desires.\
