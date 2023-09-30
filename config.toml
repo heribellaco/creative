@@ -47,6 +47,10 @@ googleAnalytics = ""
   home = true
 
   [[params.navlinks]]
+  name = "Music"
+  url = "music/"
+
+  [[params.navlinks]]
   name = "About"
   url = "about/"
 
@@ -63,5 +67,5 @@ googleAnalytics = ""
   email         = "hrangelm@gmail.com"
   twitter       = "https://twitter.com/hrangelma/"
   github        = "https://github.com/heribellaco"
-  youtube       = "https://www.youtube.com/user/her1bert03/videos"
+  youtube       = "https://www.youtube.com/channel/UCccOtB63EVgEC8icJEvdp1g"
   whatsapp      = "https://wa.me/5215532783230?text=Hi%20message%20me!"

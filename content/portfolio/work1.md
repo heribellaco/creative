@@ -4,7 +4,7 @@ draft = false
 image = "img/portfolio/heribertorangel_700.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Landing Page"
-weight = 0
+weight = 12
 +++
 
 This landing page describes the content of my book, and has links to buy the book directly from me in electronic form, or to buy it from Amazon if you like. There is also links to the French and German versions.
@@ -15,13 +15,17 @@ You can look to some pages of the book, learn about me and, contact me by email 
 
 1. Made with a Hugo Static Generator template.
 2. Static site hosted for free on Netlify.
-3. Page linked to my "heribertorangel.com" domain.
+3. Can link page to your domain.
 
----
-## Objective
+
+## Advantages
 
 A fast and easy way to showcase your work in a single page:
 
-* Information about the author.
-* Easy to add and remove parts of template.
-* Links to acquire the book or music.
+* Information about you, the author.
+* It is easy to add, and remove parts to template.
+* Add Links to acquire the book or music.
+
+---
+[Click link to Site](https://beto-portfolio.netlify.app/)
+---

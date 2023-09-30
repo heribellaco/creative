@@ -1,7 +1,7 @@
 +++
 draft = false
-image = ""
-showonlyimage = false
+image = "img/portfolio/vagabonding.jpg"
+showonlyimage = true
 date = "2016-11-05T19:50:47+05:30"
 title = "Rolf Potts \"Vagabonding\""
 weight = 4

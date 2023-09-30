@@ -1,7 +1,7 @@
 +++
 draft = false
-image = "img/portfolio/animal-garden_650.jpg"
-showonlyimage = false
+image = "img/portfolio/animal_gardensm.jpg"
+showonlyimage = true
 date = "2016-11-05T20:02:19+05:30"
 title = "Animal Garden Cover"
 weight = 9
@@ -14,8 +14,8 @@ This world variety is represented by the objects seen on it, like the mexican mo
 
 The garden Items remind us of how big the world is, and the incredible adventure that being alive represent.
 
-1. Chinese lions
-2. Ganesh elephant
+1. Chinese Guardian lions (Foo dogs)
+2. Ganesha statue
 3. Chi-kung Balls
 4. Cairnes
 5. Chinese coins

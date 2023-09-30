@@ -1,23 +1,23 @@
 +++
 draft = false
-image = ""
+image = "img/portfolio/new_yorks.jpg"
 date = "2016-11-05T19:56:17+05:30"
 title = "Investing and Power"
-showonlyimage = false
+showonlyimage = true
 weight = 6
 +++
 
-The mass of men lead lives of quiet desperation.
+>The mass of men lead lives of quiet desperation.
 (Henry David Thoreau)
 <!--more-->
 
-The intelligent investor is a realist who sells to optimists and buys from pessimists.
+>The intelligent investor is a realist who sells to optimists and buys from pessimists.
 (Benjamin Graham)
 
 1. No pauper is friend to the rich, no fool to the wise, no coward to the brave.
 2. the intelligent investor must never forecast the future exclusively by extrapolating the past.
 
-> Never associate with those who share your defects—they will reinforce everything that holds you back. Only create associations with positive affinities. Make this a rule of life and you will benefit more than from all the therapy in the world.
+Never associate with those who share your defects—they will reinforce everything that holds you back. Only create associations with positive affinities. Make this a rule of life and you will benefit more than from all the therapy in the world.
 
 ## Power
 
