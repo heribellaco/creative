@@ -5,7 +5,7 @@ languageCode = "en-us"
 # Enable comments by entering betorangel to your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
+googleAnalytics = "UA-136830935-1"
 
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
@@ -14,8 +14,8 @@ googleAnalytics = ""
   description = "My Website"
   copyright = "&copy;2023 Heriberto R."
   sidebarAbout = [
-    "I am a developer and musician",
-    "Currently based in Mexico City."
+    "Enjoy my work, and music"
+    "Currently based in Mexico."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
