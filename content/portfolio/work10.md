@@ -8,24 +8,18 @@ weight = 10
 +++
 
 This is a page where people can listen to a few demo songs from my new album.
+This page was a template with simple html, css, javascript, bootstrap, and shows the album cover image and some songs to listen.
+The page is hosted for free on Github and deployed by Netlify.
 <!--more-->
 
 ## Animal Garden Album
 
-The songs have been written in the last 5 years, with pieces of guitar recorded and edited on Adobe Audition, or recorded directly to my phone. This bits and pieces were imported to LogicPro software where voice, bass, keyboards and drums were added, and finally mixed and mastered.
-
-The songs where put togeter with intros, outros, and divided in choruses, verses, bridges, etc. Finally lyrics where added; the beats per minute (BPM), and the key used found. Inspiration came from various sources.
-
-* 80 & 90 Rock.
-* Pop Rock and Romantic Ballads.
-* Clasical music and jazz.
+The songs have been written in the last 5 years, with audio imported to LogicPro software where voice, bass, keyboards and drums were added, and finally mixed and mastered by me.
 
 All the music is written, played and singed by myself.
   
 ---  
-Check some of my songs!
-
-and let me know what you think.
+Check my songs!
 
 [Click to Music Site!](https://animal-garden.netlify.app/cover.html)  
 
