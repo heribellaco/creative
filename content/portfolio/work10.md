@@ -7,20 +7,20 @@ title = "Music Page"
 weight = 10
 +++
 
-This is a page where people can listen to a few demo songs from my new album.
-This page was a template with simple html, css, javascript, bootstrap, and shows the album cover image and some songs to listen.
+This is a simple page where people can listen to a few demo single songs.
+This page was a template with simple html, css, javascript, and bootstrap. It shows the album cover image and some songs to listen.
 The page is hosted for free on Github and deployed by Netlify.
 <!--more-->
 
 ## Animal Garden Album
 
-The songs have been written in the last 5 years, with audio imported to LogicPro software where voice, bass, keyboards and drums were added, and finally mixed and mastered by me.
+Songs have been written in the last 5 years; later voice, bass, keyboards and drums were added, and finally mixed and mastered.
 
 All the music is written, played and singed by myself.
   
 ---  
 Check my songs!
 
-[Click to Music Site!](https://animal-garden.netlify.app/cover.html)  
+[Click to Music Site!](https://animal-garden.netlify.app)  
 
 ---

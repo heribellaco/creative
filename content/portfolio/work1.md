@@ -27,5 +27,5 @@ A fast and easy way to showcase your work in a single page:
 * Add Links to acquire the book or music.
 
 ---
-[Click link to Site](https://beto-portfolio.netlify.app/)
+[Click link to Site](https://keratoconus-book.netlify.app/)
 ---
