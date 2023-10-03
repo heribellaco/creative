@@ -19,4 +19,3 @@ Check some of my songs!
 and let me know what you think.
 
 [Click to Music Site!](https://animal-garden.netlify.app/cover.html)
----  

@@ -23,6 +23,6 @@ This blog is a static blog, meaning it is fast, has no database and can be hoste
 
 ---
 
-[Go to book blog page!](https://keratoconusguide.netlify.app/)
+[Click to blog page!](https://keratoconusguide.netlify.app/)
 
 ---
