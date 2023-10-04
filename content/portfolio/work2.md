@@ -11,14 +11,16 @@ Explore the enchanting world of acoustic guitar music with this ballad, set agai
 
 <!--more-->
 
-Providing the perfect setting for the music to transport you to a world where time and memories intertwine, leaving you with a sense of wistful nostalgia. This video captures the essence of time's fleeting nature and the longing for moments past.
+>Providing the perfect setting for the music to transport you to a world where time and memories intertwine, leaving you with a sense of wistful nostalgia.
+
+This video captures the essence of time's fleeting nature and the longing for moments past.
 
 ---
 
 Get it!
 
 [Click to Music Store!](https://shop.heribertorangel.com/b/hOEwS)
-
+---
 
 
 
