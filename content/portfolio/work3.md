@@ -11,6 +11,8 @@ In the Vedic tradition, each person can choose four paths that arise from feelin
 <!--more-->
 This image was taken by me, and shows some articles used in ayurveda medicine.
 
+![ayurveda](../../img/portfolio/ayurveda.jpg)
+
 1. Cow Ghee
 2. Tumeric powder
 3. Salt

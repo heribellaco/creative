@@ -10,6 +10,8 @@ weight = 5
 This photo was taken in 2020 on Venice Beach California amazing bike trail.
 <!--more-->
 
+![Venice Beach](../../img/portfolio/beto.jpg)
+
 ---
 
 The public demands that you tell them a story. The story is part of the product or service that they buy—in many cases, the story is what people set out to buy. But at the core of a story is the thing, the real thing, the essence of what you’ve built.

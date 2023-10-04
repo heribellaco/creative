@@ -14,6 +14,8 @@ The image is called "Keratoconus Breakfast", and shows on one side a table and o
 
 An apple with a keratoconus scan image surface is placed at the table to remind us that we are part of nature.
 
+![keratoconus breakfast](../../img/portfolio/kc_breakfast.jpg)
+
 1. Apple was rendered with Cinema4d Software and texture taken directly from my eye's Orbscan.
 2. Brekfast image taken with my Olympus camara, blurring and apple added later with Adobe photoshop.
 
