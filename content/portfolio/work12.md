@@ -1,13 +1,16 @@
 +++
 date = "2016-11-05T19:41:01+05:30"
-title = "Memories, Dreams, and Reflections (C. G. Jung)"
+title = "Memories, Dreams, and Reflections (Carl Jung)"
 draft = false
 image = "img/portfolio/mandala-5180247_640.png"
 showonlyimage = true
 weight = 12
 +++
 
-I have already mentioned the fact that the Self is symbolized with special frequency in the form of a stone, precious or otherwise. The Self is also often symbolized as an animal, representing our instinctive nature and its connectedness with one’s surroundings. (That is why there are so many helpful animals in myths and fairy tales.) 
+I have already mentioned the fact that the Self is symbolized with special frequency in the form of a stone, precious or otherwise.
+<!--more-->
+
+>The Self is also often symbolized as an animal, representing our instinctive nature and its connectedness with one’s surroundings. (That is why there are so many helpful animals in myths and fairy tales.) 
 <!--more-->
 
 Dreams are not wish-fulfillments (as Freud taught) but rather, as Jung assumed, “self-representations of the unconscious,”
@@ -19,7 +22,7 @@ But it is a fact that, in addition to memories from a long-distant conscious pas
 
 > Man positively needs general ideas and convictions that will give a meaning to his life and enable him to find a place for himself in the universe. He can stand the most incredible hardships when he is convinced that they make sense; he is crushed when, on top of all his misfortunes, he has to admit that he is taking part in a “tale told by an idiot.”
 
-## Man and His Symbols (C. G. Jung)
+## Man and His Symbols
 
 Many dreams present images and associations that are analogous to primitive ideas, myths, and rites. These dream images were called “archaic remnants” by Freud; the phrase suggests that they are psychic elements surviving in the human mind from ages long ago.
 

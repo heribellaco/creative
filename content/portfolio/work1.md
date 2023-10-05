@@ -4,7 +4,7 @@ draft = false
 image = "img/portfolio/heribertorangel_700.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Landing Page"
-weight = 12
+weight = 4
 +++
 
 This landing page describes the content of my book, and has links to buy the book directly from me, or to buy it from Amazon if you like. There is also links to the French and German versions.

@@ -4,7 +4,7 @@ image = "img/portfolio/vagabonding.jpg"
 showonlyimage = true
 date = "2016-11-05T19:50:47+05:30"
 title = "Rolf Potts \"Vagabonding\""
-weight = 4
+weight = 11
 +++
 
 People will say all kinds of things about their motives and intentions; they are used to dressing things up with words. Their actions, however, say much more about their character, about what is going on underneath the surface.

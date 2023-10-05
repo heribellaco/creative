@@ -6,13 +6,13 @@ title = "Investing and Power"
 showonlyimage = true
 weight = 6
 +++
+The intelligent investor is a realist who sells to optimists and buys from pessimists.
+(Benjamin Graham)
+
+<!--more-->
 
 >The mass of men lead lives of quiet desperation.
 (Henry David Thoreau)
-<!--more-->
-
->The intelligent investor is a realist who sells to optimists and buys from pessimists.
-(Benjamin Graham)
 
 1. No pauper is friend to the rich, no fool to the wise, no coward to the brave.
 2. the intelligent investor must never forecast the future exclusively by extrapolating the past.

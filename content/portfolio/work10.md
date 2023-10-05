@@ -7,10 +7,12 @@ title = "Music Page"
 weight = 10
 +++
 
-This is a simple page where people can listen to a few demo single songs.
+This is a simple page where you can listen to a few demo single songs.
+
+<!--more-->
 This page was a template with simple html, css, javascript, and bootstrap. It shows the album cover image and some songs to listen.
 The page is hosted for free on Github and deployed by Netlify.
-<!--more-->
+
 
 ## Animal Garden Album
 

@@ -7,8 +7,11 @@ title = "Animal Garden Cover"
 weight = 9
 +++
 
-This cover represents the world. We are in the sunny side of mountain, like in the Chinese Ying/Yang tradition; but if we climb more we can find ourselves in the shadowy side of the world; may be in a better site, but also advancing to the unknown and, maybe a more dangerous place.
+This cover represents the world. We are in the sunny side of mountain, like in the Chinese Ying/Yang tradition.
 <!--more-->
+
+ but if we climb more we can find ourselves in the shadowy side of the world; may be in a better site, but also advancing to the unknown and, maybe a more dangerous place.
+
 
 ![album cover](../../img/portfolio/animal_gardensm.jpg)
 
