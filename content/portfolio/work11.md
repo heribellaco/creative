@@ -22,4 +22,4 @@ An apple with a keratoconus scan image surface is placed at the table to remind 
 > Dear Heriberto, Thank you for participating in the World KC Day Photo Contest, Keratoconus: Thru My Eyes.  I am delighted to tell you that your entry “KC Breakfast” was selected as. Adult Category – 1st Place
 > Congratulations and thank you again for participating.  We wish you good vision and good eye health in 2023.
 > 
->  Mary Prudden  
+>  Mary Prudden - Executive Director NKCF.
