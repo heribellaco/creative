@@ -7,7 +7,7 @@ title = "Music Page"
 weight = 10
 +++
 
-This is a simple page where you can listen to a few demo single songs.
+This is a page where you can listen to a few demo guitar pieces of my music.
 
 <!--more-->
 This page was a template with simple html, css, javascript, and bootstrap. It shows the album cover image and some songs to listen.
@@ -23,6 +23,6 @@ All the music is written, played and singed by myself.
 ---  
 Check my songs!
 
-[Click to Music Site!](https://animal-garden.netlify.app)  
+[Click to Music demo Site!](https://animal-garden.netlify.app)  
 
 ---
