@@ -7,7 +7,7 @@ draft = false
 weight = 7
 +++
 
-This is the audio version of the Keratoconus-Guide, it was created with Google Books AI
+This is the audio version of the Keratoconus-Guide, it was narreted by Google AI.
 
 <!--more-->
 

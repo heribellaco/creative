@@ -7,19 +7,19 @@ showonlyimage = true
 weight = 1
 +++
 
-Explore the enchanting world of acoustic guitar music with this ballad, set against the backdrop of Tokyo's Akihabara station; the hub of anime culture.
+Explore the enchanting world of guitar music with this ballad, set against the backdrop of Tokyo's Akihabara station; the hub of anime culture.
 
 <!--more-->
 
->Providing the perfect setting for the music to transport you to a world where time and memories intertwine, leaving you with a sense of wistful nostalgia.
+>The perfect setting for the music to transport you to a world where memories intertwine with nostalgia.
 
-This video captures the essence of time's fleeting nature and the longing for moments past.
+This video captures time's fleeting nature and the longing for moments past.
 
 ---
 
-Get it!
+Hear!
 
-[Click to Music Store!](https://shop.heribertorangel.com/b/hOEwS)
+[Click to Spotify!](https://open.spotify.com/artist/76wIpGo3tBMBV0pRQRWRYK)
 ---
 
 

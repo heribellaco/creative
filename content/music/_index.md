@@ -14,8 +14,9 @@ The songs where put togeter with intros, outros, and divided in choruses, verses
 All the music is written, played and singed by me.
   
 ---  
-Check some of my songs!
+Check some music ideas!
 
-and let me know what you think.
+what you think?.
 
-[Click to Music Site!](https://animal-garden.netlify.app/cover.html)
+[Click to Music!](https://animal-garden.netlify.app/cover.html)
+
