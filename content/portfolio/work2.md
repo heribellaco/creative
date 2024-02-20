@@ -7,7 +7,7 @@ showonlyimage = true
 weight = 1
 +++
 
-Explore the enchanting world of guitar music with this ballad, set against the backdrop of Tokyo's Akihabara station; the hub of anime culture.
+Explore the enchanting world of music with this song, set against the backdrop of Tokyo's Akihabara station; the hub of anime culture.
 
 <!--more-->
 
@@ -17,9 +17,15 @@ This video captures time's fleeting nature and the longing for moments past.
 
 ---
 
-Hear!
+Hear it!
 
-[Click to Spotify!](https://open.spotify.com/artist/76wIpGo3tBMBV0pRQRWRYK)
+
+[Click for Spotify](https://open.spotify.com/artist/76wIpGo3tBMBV0pRQRWRYK)
+
+
+[Click for Youtube](https://www.youtube.com/channel/UCccOtB63EVgEC8icJEvdp1g)
+
+
 ---
 
 
