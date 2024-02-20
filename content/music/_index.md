@@ -11,12 +11,12 @@ The songs where put togeter with intros, outros, and divided in choruses, verses
 * Pop Rock and Romantic Ballads.
 * Clasic guitar and folk.
 
-All the music is written, played and singed by me.
+All the music is written, played and singed by myself.
   
 ---  
-Check some music ideas!
+Check my music!
 
 what you think?.
 
-[Click to Music!](https://animal-garden.netlify.app/cover.html)
+[Click to Music!](https://open.spotify.com/artist/76wIpGo3tBMBV0pRQRWRYK)
 

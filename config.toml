@@ -59,6 +59,10 @@ googleAnalytics = "UA-136830935"
   url = "poems/"
 
   [[params.navlinks]]
+  name = "Store"
+  url = "store/"
+
+  [[params.navlinks]]
   name = "Get in touch"
   url = "contact/"
 
