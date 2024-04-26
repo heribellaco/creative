@@ -14,8 +14,7 @@ googleAnalytics = "UA-136830935"
   description = "My Website"
   copyright = "&copy;2023 Heriberto R."
   sidebarAbout = [
-    "Enjoy my work, and music",
-    "Based in Mexico City."
+    "Enjoy my work, and music"
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
