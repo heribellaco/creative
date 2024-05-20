@@ -10,11 +10,11 @@ googleAnalytics = "UA-136830935"
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "violet"
+  style = "green"
   description = "My Website"
   copyright = "&copy;2024 Heriberto R."
   sidebarAbout = [
-    "Enjoy my work, and music"
+    "Enjoy my stuff"
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
