@@ -3,14 +3,14 @@ title = "Proyects"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 # Enable comments by entering betorangel to your Disqus shortname
-disqusShortname = "betorangel"
+disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = "UA-136830935"
 
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "green"
+  style = "violet"
   description = "My Website"
   copyright = "&copy;2024 Heriberto R."
   sidebarAbout = [
