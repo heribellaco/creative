@@ -15,7 +15,7 @@ To be awake is to be alive. I have never yet met a man who was quite awake. How 
 
 ---
 
-*The garden of love*
+*The Garden of love*
 
 >I went to the garden of Love,\
 And saw what i had never had seen:\
@@ -35,7 +35,7 @@ And binding with briars my joys and desires.\
 
 **Songs of Experience: (William Blake)**
 
-===
+---
 
 Alone
 
