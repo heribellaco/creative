@@ -4,7 +4,7 @@ title = "Memories, Dreams, and Reflections (Carl Jung)"
 draft = false
 image = "img/portfolio/mandala-5180247_640.png"
 showonlyimage = true
-weight = 12
+weight = 13
 +++
 
 I have already mentioned the fact that the Self is symbolized with special frequency in the form of a stone, precious or otherwise.

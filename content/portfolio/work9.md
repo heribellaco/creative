@@ -4,7 +4,7 @@ image = "img/portfolio/animal_gardensm.jpg"
 showonlyimage = true
 date = "2016-11-05T20:02:19+05:30"
 title = "Animal Garden Cover"
-weight = 9
+weight = 12
 +++
 
 This cover represents the world. We are in the sunny side of mountain, like in the Chinese Ying/Yang tradition.
