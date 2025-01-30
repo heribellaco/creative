@@ -30,8 +30,7 @@ And tomb-stones where flowers should be;\
 And Priests in black gowns where walking their rounds,\
 And binding with briars my joys and desires.\
 
-
-## Songs of Experience: (William Blake)
+**Songs of Experience: (William Blake)**
 
 ---
 
@@ -53,4 +52,4 @@ From the thunder, and the storm—And the cloud that took the form
 (When the rest of Heaven was blue)
 Of a demon in my view—
 
-## Edgar Allan Poe
+**Edgar Allan Poe**
