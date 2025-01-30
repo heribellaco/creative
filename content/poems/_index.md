@@ -9,13 +9,11 @@ The Vedas say, “All intelligences awake with the morning.” Poetry and art, a
 
 To be awake is to be alive. I have never yet met a man who was quite awake. How could I have looked him in the face?
 
-
-
 **Walden, or, Life in the woods: (Henry David Thoreau)**  
 
 ---
 
-*The Garden of love*
+## The Garden of love
 
 >I went to the garden of Love,\
 And saw what i had never had seen:\
@@ -33,11 +31,11 @@ And Priests in black gowns where walking their rounds,\
 And binding with briars my joys and desires.\
 
 
-**Songs of Experience: (William Blake)**
+## Songs of Experience: (William Blake)
 
 ---
 
-Alone
+## Alone
 
 From childhood’s hour I have not been, As others were
 I have not seen, As others saw
@@ -55,4 +53,4 @@ From the thunder, and the storm—And the cloud that took the form
 (When the rest of Heaven was blue)
 Of a demon in my view—
 
-**Edgar Allan Poe**
+## Edgar Allan Poe
