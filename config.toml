@@ -11,10 +11,10 @@ googleAnalytics = "UA-136830935"
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "violet"
-  description = "My Website"
+  description = "Website"
   copyright = "&copy;2024 Heriberto R."
   sidebarAbout = [
-    "Enjoy my stuff"
+    "Enjoy & have fun"
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -59,7 +59,7 @@ googleAnalytics = "UA-136830935"
 
   [[params.navlinks]]
   name = "Store"
-  url = "https://shop.heribertorangel.com/"
+  url = "https://payhip.com/kug/music"
 
   [[params.navlinks]]
   name = "Get in touch"
