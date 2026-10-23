@@ -1,7 +1,7 @@
 +++
 image = "img/portfolio/charcoals.jpg"
 showonlyimage = true
-date = "2023-07-05T19:57:40+05:30"
+date = "2026-10-05T19:57:40+05:30"
 title = "Book"
 draft = false
 weight = 5

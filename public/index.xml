@@ -1,110 +1,110 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Creative Portfolio</title>
-    <link>https://starlit-liger-4f88b6.netlify.app/</link>
-    <description>Recent content on Creative Portfolio</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Proyects</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Proyects</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Nov 2016 13:00:25 +0530</lastBuildDate><atom:link href="https://starlit-liger-4f88b6.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Oct 2026 19:57:40 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Name of the work 2</title>
-      <link>https://starlit-liger-4f88b6.netlify.app/portfolio/work2/</link>
+      <title>Little time</title>
+      <link>http://localhost:1313/portfolio/work2/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
-      
-      <guid>https://starlit-liger-4f88b6.netlify.app/portfolio/work2/</guid>
-      <description>&lt;p&gt;When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/portfolio/work2/</guid>
+      <description>&lt;p&gt;Explore the enchanting world of music with this song, set against the backdrop of Tokyo&amp;rsquo;s Akihabara station; the hub of anime culture.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Name of the work 3</title>
-      <link>https://starlit-liger-4f88b6.netlify.app/portfolio/work3/</link>
-      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
-      
-      <guid>https://starlit-liger-4f88b6.netlify.app/portfolio/work3/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Item without image</title>
-      <link>https://starlit-liger-4f88b6.netlify.app/portfolio/work4/</link>
-      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
-      
-      <guid>https://starlit-liger-4f88b6.netlify.app/portfolio/work4/</guid>
-      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Name of the work 5</title>
-      <link>https://starlit-liger-4f88b6.netlify.app/portfolio/work5/</link>
-      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
-      
-      <guid>https://starlit-liger-4f88b6.netlify.app/portfolio/work5/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Name of the work 6</title>
-      <link>https://starlit-liger-4f88b6.netlify.app/portfolio/work6/</link>
-      <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
-      
-      <guid>https://starlit-liger-4f88b6.netlify.app/portfolio/work6/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Name of the work 7</title>
-      <link>https://starlit-liger-4f88b6.netlify.app/portfolio/work7/</link>
-      <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
-      
-      <guid>https://starlit-liger-4f88b6.netlify.app/portfolio/work7/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Name of the work 8</title>
-      <link>https://starlit-liger-4f88b6.netlify.app/portfolio/work8/</link>
-      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
-      
-      <guid>https://starlit-liger-4f88b6.netlify.app/portfolio/work8/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Item with image</title>
-      <link>https://starlit-liger-4f88b6.netlify.app/portfolio/work9/</link>
-      <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
-      
-      <guid>https://starlit-liger-4f88b6.netlify.app/portfolio/work9/</guid>
-      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Item with image</title>
-      <link>https://starlit-liger-4f88b6.netlify.app/portfolio/work10/</link>
-      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
-      
-      <guid>https://starlit-liger-4f88b6.netlify.app/portfolio/work10/</guid>
-      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Item with image</title>
-      <link>https://starlit-liger-4f88b6.netlify.app/portfolio/work11/</link>
+      <title>A Keratoconus Breakfast</title>
+      <link>http://localhost:1313/portfolio/work11/</link>
       <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
-      
-      <guid>https://starlit-liger-4f88b6.netlify.app/portfolio/work11/</guid>
-      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/portfolio/work11/</guid>
+      <description>&lt;p&gt;Winner image of the first prize at the &amp;ldquo;keratoconus Foundation&amp;rdquo; NKCF USA/Australia, photo contest. (November 10, 2022)&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Name of the work 1</title>
-      <link>https://starlit-liger-4f88b6.netlify.app/portfolio/work1/</link>
-      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
-      
-      <guid>https://starlit-liger-4f88b6.netlify.app/portfolio/work1/</guid>
-      <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.&lt;/p&gt;</description>
+      <title>Yoga &amp; Ayurveda</title>
+      <link>http://localhost:1313/portfolio/work3/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      <guid>http://localhost:1313/portfolio/work3/</guid>
+      <description>&lt;p&gt;In the Vedic tradition, each person can choose four paths that arise from within.&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Landing Page</title>
+      <link>http://localhost:1313/portfolio/work1/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      <guid>http://localhost:1313/portfolio/work1/</guid>
+      <description>&lt;p&gt;This landing page describes the content of my book, and has links to buy the book directly from me, or to buy it from Amazon if you like. There is also links to the French and German versions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Book</title>
+      <link>http://localhost:1313/portfolio/work14/</link>
+      <pubDate>Mon, 05 Oct 2026 19:57:40 +0530</pubDate>
+      <guid>http://localhost:1313/portfolio/work14/</guid>
+      <description>&lt;p&gt;This is the &amp;ldquo;Get on your wheel&amp;rdquo; book!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Venice Beach</title>
+      <link>http://localhost:1313/portfolio/work5/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      <guid>http://localhost:1313/portfolio/work5/</guid>
+      <description>&lt;p&gt;This photo was taken in 2020 on Venice Beach California amazing bike trail.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Investing and Power</title>
+      <link>http://localhost:1313/portfolio/work6/</link>
+      <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
+      <guid>http://localhost:1313/portfolio/work6/</guid>
+      <description>&lt;p&gt;The intelligent investor is a realist who sells to optimists and buys from pessimists.&#xA;(Benjamin Graham)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Audio Book</title>
+      <link>http://localhost:1313/portfolio/work7/</link>
+      <pubDate>Wed, 05 Jul 2023 19:57:40 +0530</pubDate>
+      <guid>http://localhost:1313/portfolio/work7/</guid>
+      <description>&lt;p&gt;This is the audio version of the Keratoconus-Guide, it was narreted by Google AI.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Keratoconus Blog</title>
+      <link>http://localhost:1313/portfolio/work8/</link>
+      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
+      <guid>http://localhost:1313/portfolio/work8/</guid>
+      <description>&lt;p&gt;This is my book blog page, it is used as a addon to my book &amp;ldquo;the keratoconus user-guide&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Keratoconus Book</title>
+      <link>http://localhost:1313/portfolio/work13/</link>
+      <pubDate>Wed, 05 Jul 2023 19:57:40 +0530</pubDate>
+      <guid>http://localhost:1313/portfolio/work13/</guid>
+      <description>&lt;p&gt;The Keratoconus Health Guide is a must have for people with keratoconus and other corneal diseases&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Music Page</title>
+      <link>http://localhost:1313/portfolio/work10/</link>
+      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
+      <guid>http://localhost:1313/portfolio/work10/</guid>
+      <description>&lt;p&gt;This is a page where you can listen to a few demo guitar pieces of my music.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rolf Potts &#34;Vagabonding&#34;</title>
+      <link>http://localhost:1313/portfolio/work4/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      <guid>http://localhost:1313/portfolio/work4/</guid>
+      <description>&lt;p&gt;People will say all kinds of things about their motives and intentions; they are used to dressing things up with words. Their actions, however, say much more about their character, about what is going on underneath the surface.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Animal Garden Cover</title>
+      <link>http://localhost:1313/portfolio/work9/</link>
+      <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
+      <guid>http://localhost:1313/portfolio/work9/</guid>
+      <description>&lt;p&gt;This cover represents the world. We are in the sunny side of mountain, like in the Chinese Ying/Yang tradition.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Memories, Dreams, and Reflections (Carl Jung)</title>
+      <link>http://localhost:1313/portfolio/work12/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      <guid>http://localhost:1313/portfolio/work12/</guid>
+      <description>&lt;p&gt;I have already mentioned the fact that the Self is symbolized with special frequency in the form of a stone, precious or otherwise.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
