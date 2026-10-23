@@ -7,13 +7,6 @@ disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 
-[build]
-  command = "hugo"
-  publish = "public"
-
-[build.environment]
-  HUGO_VERSION = "0.151.0"
-
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
@@ -78,3 +71,10 @@ googleAnalytics = ""
   twitter       = "https://twitter.com/hrangelma/"
   youtube       = "https://www.youtube.com/channel/UCccOtB63EVgEC8icJEvdp1g"
   whatsapp      = "https://wa.me/5215532783230?text=Hi%20message%20me!"
+
+  [build]
+  command = "hugo"
+  publish = "public"
+
+  [build.environment]
+  HUGO_VERSION = "0.151.0"
