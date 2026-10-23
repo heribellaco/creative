@@ -31,4 +31,4 @@ A fast and easy way to showcase your work in a single page:
 ---
 
 
-[Click link to Site](https://keratoconus-book.netlify.app)
+[Click link to Site](https://keratoconuslanding.netlify.app)
