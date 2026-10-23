@@ -5,7 +5,14 @@ languageCode = "en-us"
 # Enable comments by entering betorangel to your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = "UA-136830935"
+googleAnalytics = ""
+
+[build]
+  command = "hugo"
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.151.0"
 
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
