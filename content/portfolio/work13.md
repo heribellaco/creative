@@ -1,5 +1,5 @@
 +++
-image = "img/portfolio/heribertorangel.jpg"
+image = "img/portfolio/cover_green.jpg"
 showonlyimage = true
 date = "2023-07-05T19:57:40+05:30"
 title = "Keratoconus Book"
