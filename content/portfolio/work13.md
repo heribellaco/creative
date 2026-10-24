@@ -15,4 +15,5 @@ includes hypotesis, probable causes, and practical steps you can take to improve
 
 ---
 
-[Get ebook & audio book!](https://payhip.com/b/8qyxl) 
+[Get ebook & audio!](https://payhip.com/b/8qyxl)
+[Get book on Amazon!](https://www.amazon.com/dp/B0GKNVB7DD)
