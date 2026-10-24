@@ -7,7 +7,7 @@ draft = false
 weight = 5
 +++
 
-"Get on your wheel" book!
+Get on your wheel!
 
 What happens when the only way forward is to search for the impossible?
 
@@ -28,4 +28,4 @@ What would you risk to see?
 
 ---
 
-[Get Audio book!](https://payhip.com/kug/) 
+[Getbook!](https://www.amazon.com/dp/B0GKNVB7DD) 
