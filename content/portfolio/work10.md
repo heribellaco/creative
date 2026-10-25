@@ -23,6 +23,6 @@ All the music is written, played and singed by myself.
 ---  
 Check my songs!
 
-[Click to Music demo Site!](https://animal-garden.netlify.app)  
+[Click to Music player!](https://animalgarden.netlify.app)  
 
 ---
