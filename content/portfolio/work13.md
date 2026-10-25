@@ -17,4 +17,4 @@ includes hypotesis, probable causes, and practical steps you can take to improve
 
 [Get ebook & audio!](https://payhip.com/b/8qyxl)
 
-[Get book on Amazon!](https://www.amazon.com/dp/B0GKNVB7DD)
+[Get book on Amazon!](https://www.amazon.com/dp/B082MB75HW)
