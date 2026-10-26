@@ -12,7 +12,7 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "violet"
   description = "Website"
-  copyright = "&copy;2024 Heriberto R."
+  copyright = "&copy;2026 Heriberto R."
   sidebarAbout = [
     "Enjoy & have fun"
   ]
@@ -62,7 +62,7 @@ googleAnalytics = ""
   url = "https://payhip.com/heribertorangel"
 
   [[params.navlinks]]
-  name = "Get in touch"
+  name = "Contact us"
   url = "contact/"
 
   [params.social]
