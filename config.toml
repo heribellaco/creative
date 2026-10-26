@@ -46,12 +46,12 @@ googleAnalytics = ""
   home = true
 
   [[params.navlinks]]
-  name = "Music"
-  url = "music/"
+  name = "Books"
+  url = "https://www.amazon.com/author/heribertorangel"
 
   [[params.navlinks]]
-  name = "About"
-  url = "about/"
+  name = "Music"
+  url = "music/"
 
   [[params.navlinks]]
   name = "Poems"
@@ -60,6 +60,10 @@ googleAnalytics = ""
   [[params.navlinks]]
   name = "Store"
   url = "https://payhip.com/heribertorangel"
+
+  [[params.navlinks]]
+  name = "About"
+  url = "about/"
 
   [[params.navlinks]]
   name = "Contact us"
