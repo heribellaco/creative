@@ -51,7 +51,7 @@ googleAnalytics = ""
 
   [[params.navlinks]]
   name = "Music"
-  url = "music/"
+  url = "https://animalgarden.netlify.app"
 
   [[params.navlinks]]
   name = "Poems"

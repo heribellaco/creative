@@ -18,7 +18,7 @@ The page is hosted for free on Github and deployed by Netlify.
 
 Songs have been written in the last 5 years; later voice, bass, keyboards and drums were added, and finally mixed and mastered.
 
-All the music is written, played and singed by myself.
+All the music is performed by myself.
   
 ---  
 Check my songs!
