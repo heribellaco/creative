@@ -8,15 +8,13 @@ The songs have been written in the last 5 years, with pieces of guitar recorded 
 The songs where put togeter with intros, outros, and divided in choruses, verses, bridges, etc. Finally lyrics where added; the beats per minute (BPM), and the key used found. Inspiration came from various sources.
 
 * 80 & 90 Rock.
-* Pop Rock and Romantic Ballads.
+* Pop Rock and Ballads.
 * Clasic guitar and folk.
 
-All the music is written, played and singed by myself.
+All the music is written,and played by myself.
   
 ---  
 Check my music!
 
-what you think?.
-
-[Click to Music!](https://open.spotify.com/artist/76wIpGo3tBMBV0pRQRWRYK)
+[Click to Music!](../../portfolio/work10)
 
