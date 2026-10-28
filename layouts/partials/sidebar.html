@@ -2,6 +2,21 @@
   <div class="sidebar-content">
     <h1 class="sidebar-heading"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
 
+        <style>
+        .apple img {
+    width: 70px !important;
+    height: auto !important;
+    max-width: 100%;
+    transform: none;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
+        </style>
+
+    <div class="apple">
+    <img src="../../img/apple_half.avif" alt="Image">
+    </div>
+
     <!--<h1 class="sidebar-heading"><a href="https://heribertorangel.netlify.app/">{{ .Site.Title }}</a></h1> -->
     {{ range .Site.Params.sidebarAbout }}
       <p class="sidebar-p">{{ . | safeHTML }}</p>
