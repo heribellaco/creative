@@ -7,15 +7,13 @@ draft = false
 weight = 5
 +++
 
-Get on your wheel!
-
+GET ON YOUR WHEEL!
 What happens when the only way forward is to search for the impossible?
 
 Kerwals believed that if he followed the rules, kept his head down, and never caused trouble, everything would turn out fine. 
 
-With an extraordinary pack of allies—clever rodents, sharp-eyed birds, and powerful witches—Ker races across the globe in search of answers. From ancient forests to mystical bayous, from bustling cities to untamed wilderness, he discovers that restoring his sight will require more than magic. It will demand sacrifices he never imagined—and a choice between the life he wanted and the one he's meant to live.
-
-An epic quest where myth and nature come alive.</b> For everyone who's ever felt lost and powerless—and dared to believe they could transform their world.
+With an extraordinary pack of allies; Ker races across the globe in search of answers. From ancient forests to mystical bayous, from bustling cities to untamed wilderness, he discovers that restoring his sight will demand a choice between the life he wanted and the one he's meant to live.
+>An epic road quest where myth and nature collide.
 
 <!--more-->
 
